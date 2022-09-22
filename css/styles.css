@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+
+
+
+h1{
+    color:rgb(7, 119, 7)
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+body{
+    background-image:url(../asstes/img/box-desayuno-saludable.jpeg);
+    background-repeat:no-repeat;
+    background-position:center ;
+    background-size:cover;
+}
+
